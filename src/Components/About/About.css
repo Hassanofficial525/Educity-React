@@ -27,3 +27,25 @@
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
+.about h3{
+    font-weight: 600;
+    font-size: 16px;
+    color: #2121E0;
+
+}
+.about h2{
+    font-weight: 600;
+    font-size: 32px;
+    color: #000F38;
+    margin:10px 0;
+    max-width: 400px;
+
+}
+
+.about p{
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #676767;
+
+}
